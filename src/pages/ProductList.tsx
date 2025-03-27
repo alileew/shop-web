@@ -43,6 +43,7 @@ export default function ProductList() {
       >
         {products?.map((product: IProduct) => (
           <Grid
+            component="div"
             item
             xs={12}
             sm={6}
