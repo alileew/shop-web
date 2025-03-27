@@ -1,16 +1,17 @@
 # React + TypeScript + Vite
 
+npm install or pnpm install
+
 npm run dev
 
 npm run build
 
+![列表页](./src/assets/列表页.png)
+![详情页](./src/assets/详情页.png)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
-
-
-![列表页](./src/assets/列表页.png)
-![详情页](./src/assets/详情页.png)
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
